@@ -24,7 +24,7 @@ What am I working on recently:
 >`var recent = ["ReactJS" , "React Native" , "PHP"];`
 
 What I worked on:
->`var work = ["HTML" , "SCSS" , "JS" ]`
+>`var work = ["HTML" , "SCSS" , "JS", "Android Studio"]`
 
 What do I Design:
 >`git` commit -m "***`Businesss Card`***" , "***`Logo`***", "***`App Prototype`***".
