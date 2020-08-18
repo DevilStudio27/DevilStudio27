@@ -1,7 +1,6 @@
-### Hey Buddies! ❤
+## Hey Buddies! ❤
 
-    I'm 😈[***`SAHL THAKUR`***]😏, a Mobile Developer, who loves exploring different stuff,.
-    If you see this file on my project, it's because I'm learning Git.
+    I'm 😈***`SAHL THAKUR`***😏, a Mobile Developer, who loves exploring different stuff,.
 
     My mood:
 
