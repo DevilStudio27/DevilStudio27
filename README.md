@@ -1,6 +1,6 @@
 ## Hey Buddies! ❤
 
-    I'm 😈***`SAHL THAKUR`***😏, a Mobile Developer, who loves exploring different stuff,.
+    I'm 😈 _**`[SAHIL THAKUR]`**_ 😏, a Mobile Developer, who loves exploring different stuff,.
 
     My mood:
 
