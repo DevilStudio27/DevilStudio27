@@ -1,6 +1,6 @@
 ## Hey Buddies! ❤
 
-    I'm 😈 _**`[SAHIL THAKUR]`**_ 😏, a Mobile Developer, who loves exploring different stuff,.
+    I'm 😈[SAHIL THAKUR]😏, a Mobile Developer, who loves exploring different stuff,.
 
     My mood:
 
@@ -8,7 +8,7 @@
 
     My favorite color:
 
-    > [000000]
+    > [BLACK]
 
     Love Developing and Designing:
     > `[Android App]`, `[Website]`, .
