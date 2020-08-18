@@ -1,6 +1,6 @@
 ### My first repository ❤ is awesome!
 
-    I'm __**`😈[SAHL THAKUR]😏`**__, a Mobile Developer, who loves exploring different stuff,.
+    I'm 😈***`[SAHL THAKUR]`***😏, a Mobile Developer, who loves exploring different stuff,.
     If you see this file on my project, it's because I'm learning Git.
 
     My mood:
