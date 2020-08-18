@@ -17,9 +17,6 @@
 My mood:
 >_**Developing**_  `&`  _**Designing**_
 
-My favorite color:
->`BLACK`
-
 ❤Love Developing💻 and Designing🎨:
 >`Android App`, `Website`.
 
@@ -29,7 +26,7 @@ What am I working on recently:
 What I worked on:
 >`var work = ["HTML" , "SCSS" , "JS" ]`
 
-What am do I Design:
+What do I Design:
 >`git` commit -m "***`Businesss Card`***" , "***`Logo`***", "***`App Prototype`***".
 
 ### Talking About Interest
