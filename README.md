@@ -46,6 +46,7 @@ What do I Design:
     UI/UX Design| FrontEnd Developer | ProtoType Design | Android App & Web Dev. | Scss | ReactJs | React Native.
     Just 😎Self 📖Taught ✒ Virus😈.
     I also design Theme for Asus Android phone, business Card & Logo.
+    ⚡ Fun fact: love Dogs🐶 and to play guitar.
     💬 Ask me about development, I Am happy to help;
 
 
