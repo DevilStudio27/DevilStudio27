@@ -79,7 +79,7 @@ What do I Design:
 
   Here are my some design available online:
 
-<div align="center" width="100%">
+<div align="center" width="50%">
 <a href="https://codepen.io/devilstudio27">
   <img align="center" alt="Sahil Thakur | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /> Codepen
 </a>
