@@ -1,3 +1,6 @@
+<!-- Font Awesome Icons-->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.1/css/all.css">
+
 ## Hey 👋, I'm 😈👑 ***SAHIL THAKUR***! 😏❤
 <div align="center" width="100%">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/devil_2708?color=%235a68d4&label=Follow&logo=twitter&logoColor=cyan&style=for-the-badge">
@@ -73,6 +76,16 @@ What do I Design:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ### Designs :
+
+  Here are my some design available online:
+
+<div align="center">
+<p>
+
+[<i class="fab fa-codepen"></i>  Codepen.io](https://codepen.io/devilstudio27)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [ZenUI](https://designer.zenui.com/Designer/Designer)
+</p>
+</div>
+
 
 ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&hide_border=true&theme=cobalt)
