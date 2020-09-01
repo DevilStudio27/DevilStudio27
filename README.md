@@ -4,7 +4,7 @@
 ## Hey 👋, I'm 😈👑 ***SAHIL THAKUR***! 😏❤
 <div align="center" width="100%">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/devil_2708?color=%235a68d4&label=Follow&logo=twitter&logoColor=cyan&style=for-the-badge">
-&nbsp&nbsp
+&nbsp;&nbsp;
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/DevilStudio27?label=Follow&logo=github&logoColor=cyan&style=for-the-badge">
 </div>
 
@@ -14,7 +14,7 @@
 <a href="https://twitter.com/devil_2708">
   <img align="center" alt="Sahil Thakur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-&nbsp&nbsp
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/_.devil_official._/">
   <img align="center" alt="Sahil Thakur | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -79,13 +79,13 @@ What do I Design:
 
   Here are my some design available online:
 
-<div align="center">
-<p>
-
-[<i class="fab fa-codepen"></i>  Codepen.io](https://codepen.io/devilstudio27)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[ZenUI](https://designer.zenui.com/Designer/Designer)
-</p>
+<div align="center" width="100%">
+<a href="https://codepen.io/devilstudio27">
+  <img align="center" alt="Sahil Thakur | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /> Codepen
+</a>
+&nbsp&nbsp|&nbsp&nbsp
+<a href="https://designer.zenui.com/Designer/Designer">ZenUI</a>
 </div>
-
+<br>
 
 ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&hide_border=true&theme=cobalt)
