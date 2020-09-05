@@ -15,8 +15,12 @@
   <img align="center" alt="Sahil Thakur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sahil-thakur-9977a116a/">
+  <img align="center" alt="Sahil Thakur | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/_.devil_official._/">
-  <img align="center" alt="Sahil Thakur | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Sahil Thakur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 </div>
@@ -87,5 +91,6 @@ What do I Design:
 <a href="https://designer.zenui.com/Designer/Designer">ZenUI</a>
 </div>
 <br>
+
 
 ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&hide_border=true&theme=cobalt)
