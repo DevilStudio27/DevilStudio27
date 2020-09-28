@@ -1,0 +1,23 @@
+{
+  "name": "devilstudio27",
+  "version": "1.0.0",
+  "description": "**DevilStudio27/DevilStudio27** is a ✨ _special_ ✨ repository because its `README.md` (this file) updates automatically on GitHub profile.",
+  "main": "scripts/update.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "update": "node scripts/update.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevilStudio27/DevilStudio27.git"
+  },
+  "author": "Sahil Thakur \\\"Devil Studio\\\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevilStudio27/DevilStudio27/issues"
+  },
+  "homepage": "https://github.com/DevilStudio27/DevilStudio27#readme",
+  "dependencies": {
+    "davefeedread": "0.5.14"
+  }
+}
