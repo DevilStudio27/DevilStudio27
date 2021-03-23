@@ -103,28 +103,28 @@ What do I Design:
 	<tr>
 		<td><a href="https://codepen.io/devilstudio27/pen/PoNgqaw" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/PoNgqaw.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/devilstudio27/pen/PoNgqaw" rel="nofollow">Dynamic Quotes With Tweet Button</a></td>
-		<td>Sep 28, 2020</td>
+		<td>9/28/2020</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/devilstudio27/pen/MWyzGzr" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/MWyzGzr.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/devilstudio27/pen/MWyzGzr" rel="nofollow">Classic Profile Card UI</a></td>
-		<td>Sep 22, 2020</td>
+		<td>9/22/2020</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/devilstudio27/pen/eYZyOPX" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/eYZyOPX.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/devilstudio27/pen/eYZyOPX" rel="nofollow">Mens Product Box UI</a></td>
-		<td>Sep 5, 2020</td>
+		<td>9/5/2020</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/devilstudio27/pen/BaKdMoJ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/BaKdMoJ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/devilstudio27/pen/BaKdMoJ" rel="nofollow">Awesome Our Team Profile Card UI</a></td>
-		<td>Sep 1, 2020</td>
+		<td>9/1/2020</td>
 	</tr>
 </table>
 
 ---
 
-###### Last updated: Mon, 22 Mar 2021 04:27:47 GMT
+###### Last updated: Tue, 23 Mar 2021 04:22:35 GMT
 
 
 
