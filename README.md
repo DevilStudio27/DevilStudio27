@@ -81,7 +81,7 @@ What do I Design:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br>
 <br>
-[![Sahil's top used langs](https://github-readme-stats.vercel.app/api/top-langs?username=devilstudio27&show_icons=true&locale=en&layout=compact)](https://github.com/DevilStudio27/DevilStudio27)
+[![Sahil's top used langs](https://github-readme-stats.vercel.app/api/top-langs?username=devilstudio27&show_icons=true&locale=en&border_color=0a8091&border_radius=8&theme=solarized-dark&layout=compact)](https://github.com/DevilStudio27/DevilStudio27)
 <br>
 
 ### Designs :
@@ -133,6 +133,6 @@ What do I Design:
 
 
 
-[![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&hide_border=true&border_radius=8&locale=en&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
+[![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&border_color=0a8091&border_radius=8&locale=en&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
 &nbsp;
-[![Sahil's Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=devilstudio27&theme=blux&hide_border=true)](https://github.com/DevilStudio27/DevilStudio27)
+[![Sahil's Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=devilstudio27&theme=blux&hide_border=true&stroke=0a8091)](https://github.com/DevilStudio27/DevilStudio27)
