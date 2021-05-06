@@ -2,6 +2,7 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.1/css/all.css">
 
 ## Hey 👋, I'm 😈👑 ***SAHIL THAKUR***! 😏❤
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devilstudio27&label=Profile%20views&color=00e5ff&style=flat-square" alt="devilstudio27" /> </p>
 <div align="center" width="100%">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/devil_2708?color=%235a68d4&label=Follow&logo=twitter&logoColor=cyan&style=for-the-badge">
 &nbsp;&nbsp;
@@ -78,6 +79,10 @@ What do I Design:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<br>
+<br>
+[![Sahil's top used langs](https://github-readme-stats.vercel.app/api/top-langs?username=devilstudio27&show_icons=true&locale=en&layout=compact)](https://github.com/DevilStudio27/DevilStudio27)
+<br>
 
 ### Designs :
 
@@ -128,4 +133,6 @@ What do I Design:
 
 
 
-![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&hide_border=true&theme=cobalt)
+[![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&hide_border=true&border_radius=8&locale=en&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
+&nbsp;
+[![Sahil's Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=devilstudio27&theme=blux&hide_border=true)](https://github.com/DevilStudio27/DevilStudio27)
