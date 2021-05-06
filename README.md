@@ -110,8 +110,8 @@ What do I Design:
   Here are my some design available online:
 
 <div align="center" width="50%">
-<a href="https://codesandbox.io/devilstudio27" style="text-decoration:none;">
-  <img style="padding:5px;background:cyan;border-radius:50px;" align="center" alt="Sahil Thakur | Codesandbox.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" /> Codesandbox.io
+<a style="text-decoration:none;" href="https://codesandbox.io/devilstudio27">
+  <img align="center" style="padding:5px;background:cyan;border-radius:50px;" alt="Sahil Thakur | Codesandbox.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" /> Codesandbox.io
 </a>
 &nbsp&nbsp|&nbsp&nbsp
 <a href="https://codepen.io/devilstudio27" style="text-decoration:none;">
