@@ -119,7 +119,7 @@ function codepenFeedToTable(feed) {
     const itemsData = items.map(n => {
         const { title, date, link } = n;
         const penID = link.split('/').pop();
-        const ssBase = `https://assets.codepen.io/64018/internal`;
+        const ssBase = `https://assets.codepen.io/3/internal`;
         const ssEndpoint = `screenshots/pens/${penID}.default.png`;
         const ssQS = new URLSearchParams({ width, height, quality: 80 });
         const src = `${ssBase}/${ssEndpoint}?${ssQS}`;
