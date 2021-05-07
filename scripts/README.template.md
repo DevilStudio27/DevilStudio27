@@ -111,7 +111,7 @@
 
 <div align="center" width="50%">
 <a style="text-decoration:none;" href="https://codesandbox.io/devilstudio27">
-  <img align="center" style="padding:5px;background:#30e7f5;border-radius:50px;" alt="Sahil Thakur | Codesandbox.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" /> Codesandbox.io
+  <img align="center" style="padding:5px;border-radius:50px;filter: invert(.5) sepia(1) saturate(5) hue-rotate(175deg);" alt="Sahil Thakur | Codesandbox.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" /> Codesandbox.io
 </a>
 &nbsp&nbsp|&nbsp&nbsp
 <a href="https://codepen.io/devilstudio27" style="text-decoration:none;">
