@@ -16,7 +16,7 @@
   <img style="padding:3px;background:#30e7f5;border-radius:50px;" align="center" alt="Sahil Thakur | Twitter" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sahil-thakur-9977a116a/">
+<a href="https://www.linkedin.com/in/sahilthakur2708/">
   <img style="padding:3px;background:#30e7f5;border-radius:50px;" align="center" alt="Sahil Thakur | Linkedin" width="22px"  height="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 &nbsp;&nbsp;
@@ -64,7 +64,7 @@
 - [Gmail](sahilthakur376@gmail.com)
 - [Twitter](https://twitter.com/devil_2708)
 - [Instagram](https://www.instagram.com/_.devil_official._/)
-- [Linkedin](https://www.linkedin.com/in/sahil-thakur-9977a116a/)
+- [Linkedin](https://www.linkedin.com/in/sahilthakur2708/)
 ### Languages and Tools:
 
 <p align="left">
