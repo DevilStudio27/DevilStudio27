@@ -110,7 +110,7 @@
   Here are my some design available online:
 
 <div align="center" width="50%">
-<a style="text-decoration:none;" href="https://codesandbox.io/devilstudio27">
+<a style="text-decoration:none;" href="https://codesandbox.io/u/devilstudio27/">
   <img align="center" style="padding:5px;border-radius:50px;background:#30e7f5;" alt="Sahil Thakur | Codesandbox.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" /> Codesandbox.io
 </a>
 &nbsp&nbsp|&nbsp&nbsp
