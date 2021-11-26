@@ -111,7 +111,7 @@
 
 <div align="center" width="50%">
 <a style="text-decoration:none;" href="https://g.dev/sahilthakur27">
-  <img align="center" style="padding:5px;border-radius:50px;background:#30e7f5;" alt="Sahil Thakur | Google Developer Profile" width="22px" src="<img src="https://img.icons8.com/ios/48/000000/developer--v1.png"/>" /> Google Developer Profile
+  <img align="center" style="padding:5px;border-radius:50px;background:#30e7f5;" alt="Sahil Thakur | Google Developer Profile" width="22px" src="<img src="https://img.icons8.com/ios/48/000000/developer--v1.png" /> Google Developer Profile
 </a>
 &nbsp&nbsp|&nbsp&nbsp
 <a style="text-decoration:none;" href="https://codesandbox.io/u/devilstudio27/">
