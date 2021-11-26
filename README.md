@@ -111,7 +111,7 @@
 
 <div align="center" width="50%">
 <a style="text-decoration:none;" href="https://g.dev/sahilthakur27">
-  <img align="center" style="padding:5px;border-radius:50px;background:#30e7f5;" alt="Sahil Thakur | Google Developer Profile" width="22px" src="<img src="https://www.gstatic.com/devrel-devsite/prod/v7824338a80ec44166704fb131e1860a66ed443b0ce02adfe8171907535d63bde/developers/images/touchicon-180.png" /> Google Developer Profile
+  <img align="center" style="padding:5px;border-radius:50px;background:#30e7f5;" alt="Sahil Thakur | Google Developer Profile" width="22px" src="<img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" /> Google Developer Profile
 </a>
 &nbsp&nbsp|&nbsp&nbsp
 <a style="text-decoration:none;" href="https://codesandbox.io/u/devilstudio27/">
@@ -158,7 +158,7 @@
 
 ---
 
-###### Last updated: Fri, 26 Nov 2021 07:25:09 GMT
+###### Last updated: Fri, 26 Nov 2021 07:27:27 GMT
 
 
 [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&border_color=0a8091&border_radius=8&locale=en&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
