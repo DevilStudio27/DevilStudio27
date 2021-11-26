@@ -107,9 +107,13 @@
 
 ### Designs :
 
-  Here are my some design available online:
+  Here are my work available online:
 
 <div align="center" width="50%">
+<a style="text-decoration:none;" href="https://g.dev/sahilthakur27">
+  <img align="center" style="padding:5px;border-radius:50px;background:#30e7f5;" alt="Sahil Thakur | Google Developer Profile" width="22px" src="<img src="https://img.icons8.com/ios/48/000000/developer--v1.png"/>" /> Google Developer Profile
+</a>
+&nbsp&nbsp|&nbsp&nbsp
 <a style="text-decoration:none;" href="https://codesandbox.io/u/devilstudio27/">
   <img align="center" style="padding:5px;border-radius:50px;background:#30e7f5;" alt="Sahil Thakur | Codesandbox.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" /> Codesandbox.io
 </a>
@@ -154,7 +158,7 @@
 
 ---
 
-###### Last updated: Fri, 26 Nov 2021 04:23:31 GMT
+###### Last updated: Fri, 26 Nov 2021 07:21:13 GMT
 
 
 [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&border_color=0a8091&border_radius=8&locale=en&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
