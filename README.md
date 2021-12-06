@@ -92,8 +92,6 @@
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30" /> </a></code>&nbsp;&nbsp;
   <code><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /> </a>
     <a href="https://www.invisionapp.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="30" height="30" /> </a></code>&nbsp;
-  <code><a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30" /> </a>
-    <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30" /> </a></code>&nbsp;
   <code><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" /> </a></code>
   <br>
   <code><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" /> </a>
@@ -137,28 +135,28 @@
 	<tr>
 		<td><a href="https://codepen.io/devilstudio27/pen/PoNgqaw" rel="nofollow"><img src="https://assets.codepen.io/3/internal/screenshots/pens/PoNgqaw.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/devilstudio27/pen/PoNgqaw" rel="nofollow">Dynamic Quotes With Tweet Button</a></td>
-		<td>9/28/2020</td>
+		<td>Sep 28, 2020</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/devilstudio27/pen/MWyzGzr" rel="nofollow"><img src="https://assets.codepen.io/3/internal/screenshots/pens/MWyzGzr.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/devilstudio27/pen/MWyzGzr" rel="nofollow">Classic Profile Card UI</a></td>
-		<td>9/22/2020</td>
+		<td>Sep 22, 2020</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/devilstudio27/pen/eYZyOPX" rel="nofollow"><img src="https://assets.codepen.io/3/internal/screenshots/pens/eYZyOPX.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/devilstudio27/pen/eYZyOPX" rel="nofollow">Mens Product Box UI</a></td>
-		<td>9/5/2020</td>
+		<td>Sep 5, 2020</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/devilstudio27/pen/BaKdMoJ" rel="nofollow"><img src="https://assets.codepen.io/3/internal/screenshots/pens/BaKdMoJ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/devilstudio27/pen/BaKdMoJ" rel="nofollow">Awesome Our Team Profile Card UI</a></td>
-		<td>9/1/2020</td>
+		<td>Sep 1, 2020</td>
 	</tr>
 </table>
 
 ---
 
-###### Last updated: Mon, 06 Dec 2021 04:24:03 GMT
+###### Last updated: Mon, 06 Dec 2021 18:35:04 GMT
 
 
 [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&border_color=0a8091&border_radius=8&locale=en&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
