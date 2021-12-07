@@ -43,7 +43,7 @@
 
 ###  ***`Stay Home, Stay Safe...`***
 
-### *`Ping Me! Find me on web...`*
+## *` Ping Me! Find me on web...`*
 
 [![Linkedin Badge](https://img.shields.io/badge/-sahilthakur2708-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilthakur2708/)](https://www.linkedin.com/in/sahilthakur2708/)&nbsp;
 [![Twitter Badge](https://img.shields.io/badge/-devil_2708-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/devil_2708/)](https://twitter.com/devil_2708/)&nbsp;
@@ -51,7 +51,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@_.devil_official._-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.devil_official._/)](https://www.instagram.com/_.devil_official._/)
 <br>
 
-### `Designs And Live Work:`
+## ` Designs And Live Work:`
 
   Here are my work available online:
 
@@ -69,7 +69,7 @@
 </div>
 
 
-### `Languages and Tools:`
+## `Languages and Tools:`
 
 <p align="left">
   <code><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" /> </a></code>&nbsp;
