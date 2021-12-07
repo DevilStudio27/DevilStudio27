@@ -8,23 +8,6 @@
 &nbsp;&nbsp;
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/DevilStudio27?label=Follow&logo=github&logoColor=cyan&style=for-the-badge">
 </div>
-
->
-
-<div align="center" width="100%">
-<a href="https://twitter.com/devil_2708">
-  <img style="padding:3px;background:#30e7f5;border-radius:50px;" align="center" alt="Sahil Thakur | Twitter" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sahilthakur2708/">
-  <img style="padding:3px;background:#30e7f5;border-radius:50px;" align="center" alt="Sahil Thakur | Linkedin" width="22px"  height="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/_.devil_official._/">
-  <img style="padding:3px;background:#30e7f5;border-radius:50px;" align="center" alt="Sahil Thakur | Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-</div>
  
 >
     A Android App & Web Developer, who loves exploring different stuff.
@@ -41,13 +24,13 @@
 >`Android App`, `Website`.
 
 `What am I working on recently:`
->`var recent = ["ReactJS" , "React Native" , "PHP"];`
+>`var recent = ["ReactJS", "Gatsby", "React Native", "Android App", "PHP"];`
 
 `What I worked on:`
 >`var work = ["HTML" , "SCSS" , "JS" ]`
 
 `What do I Design:`
->`git` commit -m "***`Businesss Card`***" , "***`Logo`***", "***`App Prototype`***".
+>`git` commit -m "***`Businesss Card`***" , "***`Logo`***", "***`App UI/UX`***".
 
 ### Talking About Interest
 
@@ -58,14 +41,35 @@
     💬 Ask me about development, I Am happy to help;
 
 
-##  ***`Stay Home, Stay Safe...`***
+###  ***`Stay Home, Stay Safe...`***
 
-### *Ping Me :*
-- [Gmail](sahilthakur376@gmail.com)
-- [Twitter](https://twitter.com/devil_2708)
-- [Instagram](https://www.instagram.com/_.devil_official._/)
-- [Linkedin](https://www.linkedin.com/in/sahilthakur2708/)
-### Languages and Tools:
+## *`Ping Me! Find me on web...`*
+
+[![Linkedin Badge](https://img.shields.io/badge/-sahilthakur2708-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilthakur2708/)](https://www.linkedin.com/in/sahilthakur2708/)&nbsp;
+[![Twitter Badge](https://img.shields.io/badge/-devil_2708-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/devil_2708/)](https://twitter.com/devil_2708/)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-sahilthakur376-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilthakur376@gmail.com)](mailto:sahilthakur376@gmail.com)&nbsp;
+[![Instagram Badge](https://img.shields.io/badge/-@_.devil_official._-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.devil_official._/)](https://www.instagram.com/_.devil_official._/)
+<br>
+
+## `Designs And Live Work:`
+
+  Here are my work available online:
+
+<div align="center" width="50%">
+
+[![Google Developer Profile badge](https://img.shields.io/badge/HackerRank-SahilThakur2708-00EA64?style=flat-square&logo=hackerrank&logoColor=black&colorA=00EA64&link=https://www.hackerrank.com/SahilThakur2708)](https://www.hackerrank.com/SahilThakur2708)
+&nbsp;
+[![Google Developer Profile badge](https://img.shields.io/badge/Google%20Developer%20Profile-sahilthakur27-4285F4?style=flat-square&logo=Google&logoColor=white&colorA=4285F4&link=https://g.dev/sahilthakur27)](https://g.dev/sahilthakur27)
+&nbsp;
+[![Codesandbox badge](https://img.shields.io/badge/CodeSandbox-devilstudio27-000?style=flat-square&logo=codesandbox&logoColor=white&colorA=000&link=https://codesandbox.io/u/devilstudio27/)](https://codesandbox.io/u/devilstudio27/)
+&nbsp;
+[![Codepen badge](https://img.shields.io/badge/Codepen-devilstudio27-000?style=flat-square&logo=codepen&logoColor=white&colorA=000&link=https://codepen.io/devilstudio27)](https://codepen.io/devilstudio27)
+&nbsp;
+[![Asus ZenUI badge](https://img.shields.io/badge/Asus%20ZenUI-SST%20Creation-000?style=flat-square&logo=asus&logoColor=white&colorA=000&link=https://designer.zenui.com/Designer/Designer)](https://designer.zenui.com/Designer/Designer)
+</div>
+
+
+## `Languages and Tools:`
 
 <p align="left">
   <code><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" /> </a></code>&nbsp;
@@ -103,28 +107,7 @@
 [![Sahil's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=devilstudio27&show_icons=true&locale=en&layout=compact&border_color=0a8091&border_radius=8&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
 <br>
 
-### Designs :
-
-  Here are my work available online:
-
-<div align="center" width="50%">
-<a style="text-decoration:none;" href="https://g.dev/sahilthakur27">
-  <img align="center" style="padding:5px;border-radius:50px;background:#30e7f5;" alt="Sahil Thakur | Google Developer Profile" width="22px" src="<img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" /> Google Developer Profile
-</a>
-&nbsp&nbsp|&nbsp&nbsp
-<a style="text-decoration:none;" href="https://codesandbox.io/u/devilstudio27/">
-  <img align="center" style="padding:5px;border-radius:50px;background:#30e7f5;" alt="Sahil Thakur | Codesandbox.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" /> Codesandbox.io
-</a>
-&nbsp&nbsp|&nbsp&nbsp
-<a href="https://codepen.io/devilstudio27" style="text-decoration:none;">
-  <img style="padding:5px;background:#30e7f5;border-radius:50px;" align="center" alt="Sahil Thakur | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /> Codepen
-</a>
-&nbsp&nbsp|&nbsp&nbsp
-<a href="https://designer.zenui.com/Designer/Designer" style="text-decoration:none;">ZenUI</a>
-</div>
-<br>
-
-# My "Popular" CodePens
+# *`My Awesome Popular CodePens`*
 
 <table>
 	<tr>
@@ -156,7 +139,7 @@
 
 ---
 
-###### Last updated: Tue, 07 Dec 2021 04:24:27 GMT
+###### ***Last updated: Tue, 07 Dec 2021 21:30:25 GMT***
 
 
 [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&border_color=0a8091&border_radius=8&locale=en&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
