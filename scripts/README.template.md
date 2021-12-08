@@ -46,11 +46,13 @@
 ###  ***Stay Home, Stay Safe...***
 
 ## *Ping Me! Find me on web...*
+<div align="center" width="100%">
 
 [![Linkedin Badge](https://img.shields.io/badge/-sahilthakur2708-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilthakur2708/)](https://www.linkedin.com/in/sahilthakur2708/)&nbsp;
 [![Twitter Badge](https://img.shields.io/badge/-devil_2708-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/devil_2708/)](https://twitter.com/devil_2708/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-sahilthakur376-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilthakur376@gmail.com)](mailto:sahilthakur376@gmail.com)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-@_.devil_official._-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.devil_official._/)](https://www.instagram.com/_.devil_official._/)
+</div>
 <br>
 
 ##  *Designs And Live Work:*
@@ -63,6 +65,7 @@
 &nbsp;
 [![Google Developer Profile badge](https://img.shields.io/badge/Google%20Developer%20Profile-sahilthakur27-4285F4?style=flat-square&logo=Google&logoColor=f4b400&colorA=db4437&colorB=4285F4&link=https://g.dev/sahilthakur27)](https://g.dev/sahilthakur27)
 &nbsp;
+
 [![Codesandbox Profile badge](https://img.shields.io/badge/CodeSandbox-devilstudio27-000?style=flat-square&logo=codesandbox&logoColor=white&colorA=000&colorB=653fff&link=https://codesandbox.io/u/devilstudio27/)](https://codesandbox.io/u/devilstudio27/)
 &nbsp;
 [![Codepen Profile badge](https://img.shields.io/badge/Codepen-devilstudio27-000?style=flat-square&logo=codepen&logoColor=white&colorA=000&colorB=05bfff&link=https://codepen.io/devilstudio27)](https://codepen.io/devilstudio27)
