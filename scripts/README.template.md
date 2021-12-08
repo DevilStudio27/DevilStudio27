@@ -1,11 +1,7 @@
-<!-- Font Awesome Icons-->
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.1/css/all.css">
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
-*{
- font-family: 'Quicksand', sans-serif;
-}
-</style>
+﻿<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
 ## Hey 👋, I'm 😈👑 ***SAHIL THAKUR***! 😏❤
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devilstudio27&label=Profile%20views&color=00e5ff&style=flat-square" alt="devilstudio27" /> </p>
@@ -83,52 +79,44 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![SAAS](https://img.shields.io/badge/-SAAS-000?&logo=sass)&nbsp;&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-000?&logo=sass)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=593D88)&nbsp;&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=593D88)
+
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=ed8b00)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express&logoColor=007396)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=007396)
+![Express](https://img.shields.io/badge/-Express.js-000?&logo=Express&logoColor=404d59)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=e535ab)&nbsp;&nbsp;
+![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
+![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
+
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=Mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)&nbsp;
+![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
+![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=gatsby&logoColor=663399)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)&nbsp;
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku&logoColor=663399)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-000?&logo=google-cloud)
+
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+![Kali-Linux](https://img.shields.io/badge/-Kali_Linux-000?&logo=kali-linux)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobe-photoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=adobe-illustrator)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Invision](https://img.shields.io/badge/-Invision-000?&logo=Invision)
 
 </div>
-<p align="left">
-  <code><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" /> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30" /> </a>
-    <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30" /> </a></code>&nbsp;
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" /> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" /> </a>
-    <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30" /> </a></code>&nbsp;&nbsp;
-  <code><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" /> </a></code>&nbsp;
-  <code><a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30" /> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30" /> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30" /> </a>
-    <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" height="30" /> </a></code>&nbsp;
-  <code><a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30" /> </a>
-    <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30" /> </a></code>
-  <br>
-  <code><a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30" /> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" /> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30" /> </a></code>&nbsp;
-  <code><a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="30" height="30" /> </a>
-    <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="30" height="30" /> </a></code>&nbsp;&nbsp;
-  <code><a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30" /> </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30" /> </a></code>&nbsp;&nbsp;
-  <code><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /> </a>
-    <a href="https://www.invisionapp.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="30" height="30" /> </a></code>&nbsp;
-  <code><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" /> </a></code>
-  <br>
-  <code><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" /> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> </a></code>
-</p>
-<br>
+
 
 [![Sahil's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=devilstudio27&show_icons=true&locale=en&layout=compact&border_color=0a8091&border_radius=8&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
 <br>
 
+---
 ## *`My Internship Projects`*
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devilstudio27&repo=conversion-tool&theme=react)](https://github.com/DevilStudio27/conversion-tool)
@@ -145,12 +133,19 @@
 
 [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&border_color=0a8091&border_radius=8&locale=en&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
 [![Sahil's Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=devilstudio27&theme=blux&hide_border=true&stroke=0a8091)](https://github.com/DevilStudio27/DevilStudio27)
+[![DevilStudio27 github trophy](https://github-profile-trophy.vercel.app/?username=devilstudio27&row=1)](https://github.com/devilstudio27/devilstudio27)
 <br>
 
+---
 <p align="center">
 Show❤ by starring🌟 and forking repositories you find good.
 </p>
 <div align="center">
 
-[![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-2aeaf8)](https://github.com/DevilStudio27/)
+![VSCode](https://img.shields.io/badge/Made%20with-VSCode-663399?style=flat-square&logo=visual%20studio%20code&colorA=663399&logoColor=007acc)
+![love](https://img.shields.io/badge/Built%20with-%E2%9D%A4-ff5722?style=flat-square&colorA=orange)
+![swag](https://img.shields.io/badge/Built%20with-SWAG-ff5722?style=flat-square&colorA=orange)
+
+![ViewCount](https://views.whatilearened.today/views/github/devilstudio27/devilstudio27.svg)
+[![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-05bfff)](https://github.com/DevilStudio27/)
 </div>
