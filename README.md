@@ -1,5 +1,11 @@
 <!-- Font Awesome Icons-->
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.1/css/all.css">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+*{
+ font-family: 'Quicksand', sans-serif;
+}
+</style>
 
 ## Hey 👋, I'm 😈👑 ***SAHIL THAKUR***! 😏❤
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devilstudio27&label=Profile%20views&color=00e5ff&style=flat-square" alt="devilstudio27" /> </p>
@@ -18,7 +24,7 @@
 >_**Developing**_  &  _**Designing**_
 
 `My favorite color:`
->`BLACK`
+>`BLACK❤`
 
 `❤Love Developing💻 and Designing🎨:`
 >`Android App`, `Website`.
@@ -41,9 +47,9 @@
     💬 Ask me about development, I Am happy to help;
 
 
-###  ***`Stay Home, Stay Safe...`***
+###  ***Stay Home, Stay Safe...***
 
-## *` Ping Me! Find me on web...`*
+## *Ping Me! Find me on web...*
 
 [![Linkedin Badge](https://img.shields.io/badge/-sahilthakur2708-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilthakur2708/)](https://www.linkedin.com/in/sahilthakur2708/)&nbsp;
 [![Twitter Badge](https://img.shields.io/badge/-devil_2708-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/devil_2708/)](https://twitter.com/devil_2708/)&nbsp;
@@ -51,28 +57,44 @@
 [![Instagram Badge](https://img.shields.io/badge/-@_.devil_official._-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.devil_official._/)](https://www.instagram.com/_.devil_official._/)
 <br>
 
-## ` Designs And Live Work:`
+##  *Designs And Live Work:*
 
   Here are my work available online:
 
-<div align="center" width="50%">
+<div align="center" width="100%">
 
-[![Google Developer Profile badge](https://img.shields.io/badge/HackerRank-SahilThakur2708-00EA64?style=flat-square&logo=hackerrank&logoColor=black&colorA=00EA64&link=https://www.hackerrank.com/SahilThakur2708)](https://www.hackerrank.com/SahilThakur2708)
+[![HackerRank Profile badge](https://img.shields.io/badge/HackerRank-SahilThakur2708-00EA64?style=flat-square&logo=hackerrank&logoColor=black&colorA=00EA64&colorB=3a424f&link=https://www.hackerrank.com/SahilThakur2708)](https://www.hackerrank.com/SahilThakur2708)
 &nbsp;
-[![Google Developer Profile badge](https://img.shields.io/badge/Google%20Developer%20Profile-sahilthakur27-4285F4?style=flat-square&logo=Google&logoColor=white&colorA=4285F4&link=https://g.dev/sahilthakur27)](https://g.dev/sahilthakur27)
+[![Google Developer Profile badge](https://img.shields.io/badge/Google%20Developer%20Profile-sahilthakur27-4285F4?style=flat-square&logo=Google&logoColor=f4b400&colorA=db4437&colorB=4285F4&link=https://g.dev/sahilthakur27)](https://g.dev/sahilthakur27)
 &nbsp;
-[![Codesandbox badge](https://img.shields.io/badge/CodeSandbox-devilstudio27-000?style=flat-square&logo=codesandbox&logoColor=white&colorA=000&link=https://codesandbox.io/u/devilstudio27/)](https://codesandbox.io/u/devilstudio27/)
+[![Codesandbox Profile badge](https://img.shields.io/badge/CodeSandbox-devilstudio27-000?style=flat-square&logo=codesandbox&logoColor=white&colorA=000&colorB=653fff&link=https://codesandbox.io/u/devilstudio27/)](https://codesandbox.io/u/devilstudio27/)
 &nbsp;
-[![Codepen badge](https://img.shields.io/badge/Codepen-devilstudio27-000?style=flat-square&logo=codepen&logoColor=white&colorA=000&link=https://codepen.io/devilstudio27)](https://codepen.io/devilstudio27)
+[![Codepen Profile badge](https://img.shields.io/badge/Codepen-devilstudio27-000?style=flat-square&logo=codepen&logoColor=white&colorA=000&colorB=05bfff&link=https://codepen.io/devilstudio27)](https://codepen.io/devilstudio27)
 &nbsp;
-[![Asus ZenUI badge](https://img.shields.io/badge/Asus%20ZenUI-SST%20Creation-000?style=flat-square&logo=asus&logoColor=white&colorA=000&link=https://designer.zenui.com/Designer/Designer)](https://designer.zenui.com/Designer/Designer)
+[![Asus ZenUI badge](https://img.shields.io/badge/Asus%20ZenUI-SST%20Creation-000?style=flat-square&logo=asus&logoColor=white&colorA=000&colorB=e83a63&link=https://designer.zenui.com/Designer/Designer)](https://designer.zenui.com/Designer/Designer)
+
 </div>
 
 
-## `Languages and Tools:`
+## Languages and Tools:
 
+<div align="center" width="100%">
+
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=blue)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![SAAS](https://img.shields.io/badge/-SAAS-000?&logo=sass)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=593D88)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=ed8b00)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express&logoColor=007396)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=007396)
+
+</div>
 <p align="left">
-  <code><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" /> </a></code>&nbsp;
   <code><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" /> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30" /> </a>
@@ -80,6 +102,7 @@
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" /> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" /> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30" /> </a></code>&nbsp;&nbsp;
+  <code><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" /> </a></code>&nbsp;
   <code><a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30" /> </a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30" /> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30" /> </a>
@@ -99,13 +122,17 @@
   <code><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" /> </a></code>
   <br>
   <code><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" /> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> </a>
-    <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30" /> </a></code>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> </a></code>
 </p>
 <br>
 
 [![Sahil's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=devilstudio27&show_icons=true&locale=en&layout=compact&border_color=0a8091&border_radius=8&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
 <br>
+
+## *`My Internship Projects`*
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devilstudio27&repo=conversion-tool&theme=react)](https://github.com/DevilStudio27/conversion-tool)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hostingspell-dev&repo=remove-everything-in-r&theme=react)](https://github.com/hostingspell-dev/remove-everything-in-r)
 
 ## *`My Awesome Popular CodePens`*
 
@@ -139,8 +166,17 @@
 
 ---
 
-###### ***Last updated: Wed, 08 Dec 2021 04:23:48 GMT***
+###### ***Last updated: Wed, 08 Dec 2021 12:29:40 GMT***
 
 
 [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&border_color=0a8091&border_radius=8&locale=en&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
 [![Sahil's Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=devilstudio27&theme=blux&hide_border=true&stroke=0a8091)](https://github.com/DevilStudio27/DevilStudio27)
+<br>
+
+<p align="center">
+Show❤ by starring🌟 and forking repositories you find good.
+</p>
+<div align="center">
+
+[![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-2aeaf8)](https://github.com/DevilStudio27/)
+</div>
