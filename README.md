@@ -3,7 +3,11 @@
 <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-## Hey 👋, I'm 😈👑 ***SAHIL THAKUR***! 😏❤
+<div align="center" width="100%">
+<img alt="Linkedin Banner" src="https://github.com/DevilStudio27/DevilStudio27/blob/master/scripts/My%20Banner.png">
+</div>
+
+## Hey👋 folks❤😏
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devilstudio27&label=Profile%20views&color=00e5ff&style=flat-square" alt="devilstudio27" /> </p>
 <div align="center" width="100%">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/devil_2708?color=%235a68d4&label=Follow&logo=twitter&logoColor=cyan&style=for-the-badge">
@@ -162,7 +166,7 @@
 
 ---
 
-###### ***Last updated: Mon, 17 Jan 2022 04:25:12 GMT***
+###### ***Last updated: Mon, 17 Jan 2022 21:35:17 GMT***
 
 
 [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&border_color=0a8091&border_radius=8&locale=en&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
