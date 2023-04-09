@@ -140,7 +140,6 @@
 
 [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&border_color=0a8091&border_radius=8&locale=en&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
 [![Sahil's Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=devilstudio27&theme=blux&hide_border=true&stroke=0a8091)](https://github.com/DevilStudio27/DevilStudio27)
-[![DevilStudio27 github trophy](https://github-profile-trophy.vercel.app/?username=devilstudio27&row=1)](https://github.com/devilstudio27/devilstudio27)
 <br>
 
 ---
