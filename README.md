@@ -59,6 +59,9 @@
 </div>
 <br>
 
+## *Support*
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](https://www.buymeacoffee.com/sahilthakur)
+
 ##  *Designs And Live Work:*
 
   Here are my work available online:
@@ -171,7 +174,7 @@
 
 ---
 
-###### ***Last updated: Thu, 21 Dec 2023 04:18:18 GMT***
+###### ***Last updated: Thu, 21 Dec 2023 21:01:02 GMT***
 
 
 [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&border_color=0a8091&border_radius=8&locale=en&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
