@@ -57,10 +57,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-sahilthakur376-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilthakur376@gmail.com)](mailto:sahilthakur376@gmail.com)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-@_.devil_official._-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.devil_official._/)](https://www.instagram.com/_.devil_official._/)
 </div>
-<br>
-
-## *Support*
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](https://www.buymeacoffee.com/sahilthakur)
 
 ##  *Designs And Live Work:*
 
@@ -81,6 +77,8 @@
 
 </div>
 
+## *Support*
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](https://www.buymeacoffee.com/sahilthakur)
 
 ## Languages and Tools:
 
@@ -174,7 +172,7 @@
 
 ---
 
-###### ***Last updated: Thu, 21 Dec 2023 21:01:02 GMT***
+###### ***Last updated: Thu, 21 Dec 2023 21:09:35 GMT***
 
 
 [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&border_color=0a8091&border_radius=8&locale=en&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
