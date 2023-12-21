@@ -57,10 +57,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-sahilthakur376-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilthakur376@gmail.com)](mailto:sahilthakur376@gmail.com)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-@_.devil_official._-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.devil_official._/)](https://www.instagram.com/_.devil_official._/)
 </div>
-<br>
-
-## *Support*
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](https://www.buymeacoffee.com/sahilthakur)
 
 ##  *Designs And Live Work:*
 
@@ -81,6 +77,8 @@
 
 </div>
 
+## *Support*
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](https://www.buymeacoffee.com/sahilthakur)
 
 ## Languages and Tools:
 
