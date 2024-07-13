@@ -141,38 +141,38 @@
 	<tr>
 		<td><a href="https://codepen.io/devilstudio27/pen/OJObQzY" rel="nofollow"><img src="https://assets.codepen.io/3/internal/screenshots/pens/OJObQzY.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/devilstudio27/pen/OJObQzY" rel="nofollow">Card With Hover Effect</a></td>
-		<td>2/7/2022</td>
+		<td>Feb 7, 2022</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/devilstudio27/pen/ExwwNBE" rel="nofollow"><img src="https://assets.codepen.io/3/internal/screenshots/pens/ExwwNBE.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/devilstudio27/pen/ExwwNBE" rel="nofollow">Neumorphic Profile Card UI...</a></td>
-		<td>12/23/2021</td>
+		<td>Dec 23, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/devilstudio27/pen/PoNgqaw" rel="nofollow"><img src="https://assets.codepen.io/3/internal/screenshots/pens/PoNgqaw.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/devilstudio27/pen/PoNgqaw" rel="nofollow">Dynamic Quotes With Tweet Button</a></td>
-		<td>9/28/2020</td>
+		<td>Sep 28, 2020</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/devilstudio27/pen/MWyzGzr" rel="nofollow"><img src="https://assets.codepen.io/3/internal/screenshots/pens/MWyzGzr.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/devilstudio27/pen/MWyzGzr" rel="nofollow">Classic Profile Card UI</a></td>
-		<td>9/22/2020</td>
+		<td>Sep 22, 2020</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/devilstudio27/pen/eYZyOPX" rel="nofollow"><img src="https://assets.codepen.io/3/internal/screenshots/pens/eYZyOPX.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/devilstudio27/pen/eYZyOPX" rel="nofollow">Mens Product Box UI</a></td>
-		<td>9/5/2020</td>
+		<td>Sep 5, 2020</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/devilstudio27/pen/BaKdMoJ" rel="nofollow"><img src="https://assets.codepen.io/3/internal/screenshots/pens/BaKdMoJ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/devilstudio27/pen/BaKdMoJ" rel="nofollow">Awesome Our Team Profile Card UI</a></td>
-		<td>9/1/2020</td>
+		<td>Sep 1, 2020</td>
 	</tr>
 </table>
 
 ---
 
-###### ***Last updated: Fri, 12 Jul 2024 04:19:03 GMT***
+###### ***Last updated: Sat, 13 Jul 2024 04:18:55 GMT***
 
 
 [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&border_color=0a8091&border_radius=8&locale=en&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
