@@ -38,6 +38,8 @@ const dateStyle = "medium";
       throw new Error("CodePen feed is empty");
     }
 
+    console.log(codepenFeed);
+
     // Convert CodePen feed to a table format
     const codepenTable = codepenFeedToTable(codepenFeed);
 
@@ -55,6 +57,7 @@ const dateStyle = "medium";
 
     // Save the updated README
     await saveReadme(result);
+    console.log(result);
 
     console.log("README updated successfully.");
   } catch (error) {
@@ -185,6 +188,18 @@ function codepenFeedToTable(feed) {
 /**
  * @param {string} result
  */
-function saveReadme(result) {
-  return fs.writeFile(path.resolve(__dirname, "../README.md"), result);
+// function saveReadme(result) {
+//   return fs.writeFile(path.resolve(__dirname, "../README.md"), result);
+// }
+
+async function saveReadme(result) {
+  const readmePath = path.resolve(__dirname, "../README.md");
+  const currentContent = await fs.readFile(readmePath, "utf8");
+
+  if (currentContent !== result) {
+    await fs.writeFile(readmePath, result);
+    console.log("README updated successfully.");
+  } else {
+    console.log("No changes detected. README not updated.");
+  }
 }

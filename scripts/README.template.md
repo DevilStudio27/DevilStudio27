@@ -8,6 +8,7 @@
 </div>
 
 ## Hey👋 folks❤😏
+
 <div align="center" width="100%">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/DevilStudio27?label=Follow&logo=github&logoColor=cyan&style=for-the-badge">
 </div>
@@ -18,22 +19,28 @@
     Beside's development , Love knocking heads in Battlefield-5, CS:GO & Chess.
 
 `My mood:`
->_**Developing**_  &  _**Designing**_
+
+> _**Developing**_ & _**Designing**_
 
 `My favorite color:`
->` BLACK❤ `
+
+> `BLACK❤`
 
 `❤Love Developing💻 and Designing🎨:`
->` Android App`, ` Website or Web-App `, ` Desktop App `.
+
+> ` Android App`, `Website or Web-App`, `Desktop App`.
 
 `What am I working on recently:`
->`var recent = ["ReactJS", "Gatsby", "React Native", "Android App", "NextJS"];`
+
+> `var recent = ["ReactJS", "Gatsby", "React Native", "Android App", "NextJS"];`
 
 `What I worked on:`
->`var work = ["HTML" , "SCSS" , "JS" ]`
+
+> `var work = ["HTML" , "SCSS" , "JS" ]`
 
 `What do I Design:`
->`git` commit -m "***`Businesss Card`***" , "***`Logo`***", "***`App UI/UX`***".
+
+> `git` commit -m "**_`Businesss Card`_**" , "**_`Logo`_**", "**_`App UI/UX`_**".
 
 ### Talking About Interest
 
@@ -43,21 +50,22 @@
     ⚡ Fun fact: love Dogs🐶 and to play guitar.
     💬 Ask me about development, I Am happy to help;
 
+### **_Stay Home, Stay Safe..._**
 
-###  ***Stay Home, Stay Safe...***
+## _Ping Me! Find me on web..._
 
-## *Ping Me! Find me on web...*
 <div align="center" width="100%">
 
 [![Linkedin Badge](https://img.shields.io/badge/-sahilthakur2708-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilthakur2708/)](https://www.linkedin.com/in/sahilthakur2708/)&nbsp;
 [![Twitter Badge](https://img.shields.io/badge/-devil_2708-1DA1F2?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/devil_2708/)](https://twitter.com/devil_2708/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-sahilthakur376-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilthakur376@gmail.com)](mailto:sahilthakur376@gmail.com)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-@_.devil_official._-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.devil_official._/)](https://www.instagram.com/_.devil_official._/)
+
 </div>
 
-##  *Designs And Live Work:*
+## _Designs And Live Work:_
 
-  Here are my work available online:
+Here are my work available online:
 
 <div align="center" width="100%">
 
@@ -74,7 +82,8 @@
 
 </div>
 
-## *Support*
+## _Support_
+
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](https://www.buymeacoffee.com/sahilthakur)
 
 ## Languages and Tools:
@@ -117,23 +126,23 @@
 
 </div>
 
-
 [![Sahil's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=devilstudio27&show_icons=true&locale=en&layout=compact&border_color=0a8091&border_radius=8&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
 <br>
 
 ---
-## *`My Internship Projects`*
+
+## _`My Internship Projects`_
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devilstudio27&repo=conversion-tool&theme=react)](https://github.com/DevilStudio27/conversion-tool)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hostingspell-dev&repo=remove-everything-in-r&theme=react)](https://github.com/hostingspell-dev/remove-everything-in-r)
 
-## *`My Awesome Popular CodePens`*
+## _`My Awesome Popular CodePens`_
 
 {{CODEPEN_TABLE}}
 
 ---
 
-###### ***Last updated: {{UPDATED_TIMESTAMP}}***
+###### **_Last updated: {{UPDATED_TIMESTAMP}}_**
 
 <div align="center">
  
@@ -143,6 +152,7 @@
 </div>
 
 ---
+
 <p align="center">
 Show❤ by starring🌟 and forking repositories you find good.
 </p>
@@ -154,4 +164,5 @@ Show❤ by starring🌟 and forking repositories you find good.
 
 ![ViewCount](https://views.whatilearened.today/views/github/devilstudio27/devilstudio27.svg)
 [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-05bfff)](https://github.com/DevilStudio27/)
+
 </div>
