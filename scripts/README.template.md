@@ -8,10 +8,7 @@
 </div>
 
 ## Hey👋 folks❤😏
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devilstudio27&label=Profile%20views&color=00e5ff&style=flat-square" alt="devilstudio27" /> </p>
 <div align="center" width="100%">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/devil_2708?color=%235a68d4&label=Follow&logo=twitter&logoColor=cyan&style=for-the-badge">
-&nbsp;&nbsp;
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/DevilStudio27?label=Follow&logo=github&logoColor=cyan&style=for-the-badge">
 </div>
  
@@ -24,13 +21,13 @@
 >_**Developing**_  &  _**Designing**_
 
 `My favorite color:`
->`BLACK❤`
+>` BLACK❤ `
 
 `❤Love Developing💻 and Designing🎨:`
->`Android App`, `Website`.
+>` Android App`, ` Website or Web-App `, ` Desktop App `.
 
 `What am I working on recently:`
->`var recent = ["ReactJS", "Gatsby", "React Native", "Android App", "PHP"];`
+>`var recent = ["ReactJS", "Gatsby", "React Native", "Android App", "NextJS"];`
 
 `What I worked on:`
 >`var work = ["HTML" , "SCSS" , "JS" ]`
@@ -53,7 +50,7 @@
 <div align="center" width="100%">
 
 [![Linkedin Badge](https://img.shields.io/badge/-sahilthakur2708-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilthakur2708/)](https://www.linkedin.com/in/sahilthakur2708/)&nbsp;
-[![Twitter Badge](https://img.shields.io/badge/-devil_2708-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/devil_2708/)](https://twitter.com/devil_2708/)&nbsp;
+[![Twitter Badge](https://img.shields.io/badge/-devil_2708-1DA1F2?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/devil_2708/)](https://twitter.com/devil_2708/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-sahilthakur376-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilthakur376@gmail.com)](mailto:sahilthakur376@gmail.com)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-@_.devil_official._-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.devil_official._/)](https://www.instagram.com/_.devil_official._/)
 </div>
@@ -138,10 +135,12 @@
 
 ###### ***Last updated: {{UPDATED_TIMESTAMP}}***
 
-
+<div align="center">
+ 
 [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&border_color=0a8091&border_radius=8&locale=en&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
 [![Sahil's Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=devilstudio27&theme=blux&hide_border=true&stroke=0a8091)](https://github.com/DevilStudio27/DevilStudio27)
-<br>
+
+</div>
 
 ---
 <p align="center">
