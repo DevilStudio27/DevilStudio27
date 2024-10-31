@@ -88,7 +88,7 @@ async function loadTemplateReadme() {
 
 function getCodepenFeed(username, channel) {
   const page = 1;
-  const url = `https://codepen.io/${username}/${channel}/feed?page=${page}`;
+  const url = `https://codepen.io/${username}/pens/${channel}/feed?page=${page}`;
 
   console.log("Fetching CodePen feed from URL:", url); // Log the URL being accessed
 
