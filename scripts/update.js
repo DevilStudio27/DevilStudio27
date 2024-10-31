@@ -1,10 +1,14 @@
 const path = require("path");
 const { promises: fs } = require("fs");
 const feedRead = require("davefeedread");
-const username = "devilstudio27";
-const channel = "public";
-const dateStyle = "medium";
 
+// const username = "devilstudio27";
+// const channel = "public";
+// const dateStyle = "medium";
+
+const username = "devilstudio27"; // Set your CodePen username
+const channel = "public"; // Set your CodePen channel
+const dateStyle = "medium";
 // (async () => {
 //   const [template, codepenFeed] = await Promise.all([
 //     loadTemplateReadme(),
@@ -30,7 +34,8 @@ const dateStyle = "medium";
     // Load template and CodePen feed concurrently
     const [template, codepenFeed] = await Promise.all([
       loadTemplateReadme(),
-      getCodepenFeed(),
+      //   getCodepenFeed(),
+      getCodepenFeed(username, channel),
     ]);
 
     // Check if CodePen feed is empty
