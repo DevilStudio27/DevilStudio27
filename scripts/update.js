@@ -80,10 +80,12 @@ async function loadTemplateReadme() {
 /**
  * @returns {CodepenFeedData}
  */
+
 function getCodepenFeed(username, channel) {
-  // Starts at page 1
   const page = 1;
   const url = `https://codepen.io/${username}/${channel}/feed?page=${page}`;
+
+  console.log("Fetching CodePen feed from URL:", url); // Log the URL being accessed
 
   return new Promise((resolve, reject) => {
     feedRead.parseUrl(url, 30, (err, feed) => {
