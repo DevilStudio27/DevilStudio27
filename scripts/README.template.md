@@ -13,9 +13,9 @@
 </div>
  
 >
-    A Android App & Web Developer, who loves exploring different stuff.
-    I'm a creative problem solving enthusiast.
-    Beside's development , Love hitting ass in Battlefield-2 & 4, CS:GO & Chess.
+    A Front-end Developer with a passion for crafting engaging web experiences and developing mobile apps, who loves exploring different technologies and design trends.
+    I'm a creative problem-solving enthusiast, always seeking innovative solutions to enhance user interaction and functionality.
+    Beside's development , Love knocking heads in Battlefield-5, CS:GO & Chess.
 
 `My mood:`
 >_**Developing**_  &  _**Designing**_
