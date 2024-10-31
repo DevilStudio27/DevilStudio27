@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/DevilStudio27/DevilStudio27#readme",
   "dependencies": {
-    "davefeedread": "^0.5.14"
+    "davefeedread": "^0.5.25"
   }
 }
