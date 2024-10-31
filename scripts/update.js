@@ -63,9 +63,6 @@ const dateStyle = "medium";
   }
 })();
 
-const fs = require("fs").promises; // Use promises API for fs
-const path = require("path");
-
 async function loadTemplateReadme() {
   try {
     const templatePath = path.resolve(__dirname, "./README.template.md");
