@@ -84,6 +84,10 @@ Here are my work available online:
 
 ## _Support_
 
+[![Gumroad](https://cdn.prod.website-files.com/6171b265e5c8aa59b42c3472/6406a7ac7ab57803c7a874b8_Logos.png)](https://sahilthakur27.gumroad.com/)
+
+</br>
+
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](https://www.buymeacoffee.com/sahilthakur)
 
 ## Languages and Tools:
