@@ -8,35 +8,39 @@
 </div>
 
 ## Hey👋 folks❤😏
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devilstudio27&label=Profile%20views&color=00e5ff&style=flat-square" alt="devilstudio27" /> </p>
+
 <div align="center" width="100%">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/devil_2708?color=%235a68d4&label=Follow&logo=twitter&logoColor=cyan&style=for-the-badge">
-&nbsp;&nbsp;
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/DevilStudio27?label=Follow&logo=github&logoColor=cyan&style=for-the-badge">
 </div>
  
 >
-    A Android App & Web Developer, who loves exploring different stuff.
-    I'm a creative problem solving enthusiast.
-    Beside's development , Love hitting ass in Battlefield-2 & 4, CS:GO & Chess.
+    A Front-end Developer with a passion for crafting engaging web experiences and developing mobile apps, who loves exploring different technologies and design trends.
+    I'm a creative problem-solving enthusiast, always seeking innovative solutions to enhance user interaction and functionality.
+    Beside's development , Love knocking heads in Battlefield-5, CS:GO & Chess.
 
 `My mood:`
->_**Developing**_  &  _**Designing**_
+
+> _**Developing**_ & _**Designing**_
 
 `My favorite color:`
->`BLACK❤`
+
+> `BLACK❤`
 
 `❤Love Developing💻 and Designing🎨:`
->`Android App`, `Website`.
+
+> ` Android App`, `Website or Web-App`, `Desktop App`.
 
 `What am I working on recently:`
->`var recent = ["ReactJS", "Gatsby", "React Native", "Android App", "PHP"];`
+
+> `var recent = ["ReactJS", "Gatsby", "React Native", "Android App", "NextJS"];`
 
 `What I worked on:`
->`var work = ["HTML" , "SCSS" , "JS" ]`
+
+> `var work = ["HTML" , "SCSS" , "JS" ]`
 
 `What do I Design:`
->`git` commit -m "***`Businesss Card`***" , "***`Logo`***", "***`App UI/UX`***".
+
+> `git` commit -m "**_`Businesss Card`_**" , "**_`Logo`_**", "**_`App UI/UX`_**".
 
 ### Talking About Interest
 
@@ -46,21 +50,22 @@
     ⚡ Fun fact: love Dogs🐶 and to play guitar.
     💬 Ask me about development, I Am happy to help;
 
+### **_Stay Home, Stay Safe..._**
 
-###  ***Stay Home, Stay Safe...***
+## _Ping Me! Find me on web..._
 
-## *Ping Me! Find me on web...*
 <div align="center" width="100%">
 
 [![Linkedin Badge](https://img.shields.io/badge/-sahilthakur2708-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilthakur2708/)](https://www.linkedin.com/in/sahilthakur2708/)&nbsp;
-[![Twitter Badge](https://img.shields.io/badge/-devil_2708-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/devil_2708/)](https://twitter.com/devil_2708/)&nbsp;
+[![Twitter Badge](https://img.shields.io/badge/-devil_2708-1DA1F2?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/devil_2708/)](https://twitter.com/devil_2708/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-sahilthakur376-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilthakur376@gmail.com)](mailto:sahilthakur376@gmail.com)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-@_.devil_official._-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.devil_official._/)](https://www.instagram.com/_.devil_official._/)
+
 </div>
 
-##  *Designs And Live Work:*
+## _Designs And Live Work:_
 
-  Here are my work available online:
+Here are my work available online:
 
 <div align="center" width="100%">
 
@@ -77,7 +82,12 @@
 
 </div>
 
-## *Support*
+## _Support_
+
+[![Gumroad](https://cdn.prod.website-files.com/6171b265e5c8aa59b42c3472/6406a7ac7ab57803c7a874b8_Logos.png)](https://sahilthakur27.gumroad.com/)
+
+</br>
+
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](https://www.buymeacoffee.com/sahilthakur)
 
 ## Languages and Tools:
@@ -119,7 +129,6 @@
 ![Invision](https://img.shields.io/badge/-Invision-000?&logo=Invision)
 
 </div>
-
 
 [![Sahil's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=devilstudio27&show_icons=true&locale=en&layout=compact&border_color=0a8091&border_radius=8&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
 <br>
