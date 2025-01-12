@@ -185,7 +185,7 @@ Here are my work available online:
 
 
 [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&border_color=0a8091&border_radius=8&locale=en&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
-[![Sahil's Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=devilstudio27&theme=blux&hide_border=true)](https://github.com/DevilStudio27/DevilStudio27)
+<!-- [![Sahil's Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=devilstudio27&theme=blux&hide_border=true)](https://github.com/DevilStudio27/DevilStudio27) -->
 
 <br>
 
