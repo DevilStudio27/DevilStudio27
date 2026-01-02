@@ -10,6 +10,7 @@
 ## Hey👋 folks❤😏
 
 <div align="center" width="100%">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/devilstudio27?label=Stars&logo=reverbnation&logoColor=yellow&style=for-the-badge">&nbsp;
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/DevilStudio27?label=Follow&logo=github&logoColor=cyan&style=for-the-badge">
 </div>
  
