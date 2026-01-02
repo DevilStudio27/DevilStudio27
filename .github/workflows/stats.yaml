@@ -1,0 +1,28 @@
+name: Collect GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 4 * * *'  # Run daily at 4am
+  workflow_dispatch:      # Allow manual trigger
+
+permissions:
+  # Give the default GITHUB_TOKEN write permission to commit and push the
+  # added or changed files to the repository.
+  contents: write
+
+jobs:
+  collect-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Collect GitHub Stats
+        uses: LukeHagar/stats-action@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+
+      - name: Commit stats
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update github stats"
+          file_pattern: github-user-stats.json
