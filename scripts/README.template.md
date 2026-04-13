@@ -131,15 +131,15 @@ Here are my work available online:
 
 </div>
 
-[![Sahil's top langs](https://devilstudio27-github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&locale=en&layout=compact&border_color=0a8091&border_radius=8&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
+[![Sahil's top langs](https://devilstudio27-github-readme-stats.vercel.app/api/top-langs/??username=devilstudio27&show_icons=true&locale=en&layout=compact&border_color=0a8091&border_radius=8&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
 <br>
 
 ---
 
 ## _`My Internship Projects`_
 
-[![Readme Card](https://devilstudio27-github-readme-stats.vercel.app/api?username=devilstudio27&repo=conversion-tool&theme=react)](https://github.com/DevilStudio27/conversion-tool)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hostingspell-dev&repo=remove-everything-in-r&theme=react)](https://github.com/hostingspell-dev/remove-everything-in-r)
+[![Readme Card](https://devilstudio27-github-readme-stats.vercel.app/api/pin/?username=devilstudio27&repo=conversion-tool&theme=react)](https://github.com/DevilStudio27/conversion-tool)
+[![Readme Card](https://devilstudio27-github-readme-stats.vercel.app/api/pin/?username=hostingspell-dev&repo=remove-everything-in-r&theme=react)](https://github.com/hostingspell-dev/remove-everything-in-r)
 
 ## _`My Awesome Popular CodePens`_
 
