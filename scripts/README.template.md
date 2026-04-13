@@ -131,14 +131,14 @@ Here are my work available online:
 
 </div>
 
-[![Sahil's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=devilstudio27&show_icons=true&locale=en&layout=compact&border_color=0a8091&border_radius=8&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
+[![Sahil's top langs](https://devilstudio27-github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&locale=en&layout=compact&border_color=0a8091&border_radius=8&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
 <br>
 
 ---
 
 ## _`My Internship Projects`_
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devilstudio27&repo=conversion-tool&theme=react)](https://github.com/DevilStudio27/conversion-tool)
+[![Readme Card](https://devilstudio27-github-readme-stats.vercel.app/api?username=devilstudio27&repo=conversion-tool&theme=react)](https://github.com/DevilStudio27/conversion-tool)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hostingspell-dev&repo=remove-everything-in-r&theme=react)](https://github.com/hostingspell-dev/remove-everything-in-r)
 
 ## _`My Awesome Popular CodePens`_
@@ -151,7 +151,7 @@ Here are my work available online:
 
 <div align="center">
  
-[![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&border_color=0a8091&border_radius=8&locale=en&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
+[![Sahil's github stats](https://devilstudio27-github-readme-stats.vercel.app/api?username=devilstudio27&show_icons=true&border_color=0a8091&border_radius=8&locale=en&theme=solarized-dark)](https://github.com/DevilStudio27/DevilStudio27)
 [![Sahil's Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=devilstudio27&theme=blux&hide_border=true&stroke=0a8091)](https://github.com/DevilStudio27/DevilStudio27)
 
 </div>
